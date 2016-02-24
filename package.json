@@ -1,6 +1,6 @@
 {
   "name": "ng-smoothscroll",
-  "version": "1.0.0",
+  "version": "1.8.0",
   "description": "A pure-javascript library and set of directives to scroll smoothly to an element with easing. Easing support contributed by Willem Liu with code from Gaëtan Renaudeau.",
   "main": "dist/angualr-smooth-scroll.min.js",
   "scripts": {
